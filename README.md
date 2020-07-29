@@ -22,11 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-como-contribuir">Contributing Guide</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -35,28 +34,23 @@
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Technologies
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+Aircnc is an easy way to find and announce coworking spots, a place where people can meet, build some network, get some work done.
 
-## 🤔 Como contribuir
+## 🤔 Contributing Guide
 
 - Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Make a commit of your changes: `git commit -m 'feat: My awesome feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After the merge of you pull request is done, you can delete your branch.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
